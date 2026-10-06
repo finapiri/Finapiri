@@ -1,16 +1,16 @@
-## Hi there 👋
+Finapiri Asuna
 
-<!--
-**finapiri/Finapiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Excel · SQL · Power BI
 
-Here are some ideas to get you started:
+I work with data to identify trends, analyze performance, and present findings that support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+- Excel — Data cleaning and analysis
+- SQL — Data querying and manipulation
+- Power BI — Data visualization and dashboard development
+
+Projects
+I use practical projects to demonstrate my analytical skills and approach to solving business problems.
+
+Connect with me:https://www.linkedin.com/in/asuna-finapiri-6b581a410?utm_source=share_via&utm_content=profile&utm_medium=member_android
